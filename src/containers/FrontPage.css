@@ -1,0 +1,28 @@
+.FrontPageContainer{
+  height: 100%;
+  width: 100%;
+}
+
+.Header{
+  margin: 60px;
+}
+
+.Title{
+  margin: 0px;
+  font-size: 30px;
+}
+
+.NumberInput{
+  margin: 30px;
+  border-radius: 10px;
+}
+
+.Btn{
+  border-radius: 20px;
+  width: 100px;
+  height: 30px;
+  margin-left: 710px;
+  margin-bottom: 15px;
+  background-color: grey;
+  font-size: 24px;
+}
